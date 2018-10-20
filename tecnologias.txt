@@ -1,0 +1,1 @@
+Con este curso pretengo tener una noción de lo que es Git y GitHub para poder aplicarlo profesionalmente:
